@@ -1,8 +1,6 @@
 # Callboy
 
-#### Uma lib to honor people who make lots of calls and leave your life sweeter
-
-A lib to 
+A lib to honor people who make lots of calls and leave your life sweeter
 
 https://www.youtube.com/watch?v=w0hXSWDRrZ0
 

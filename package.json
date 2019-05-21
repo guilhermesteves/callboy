@@ -1,0 +1,25 @@
+{
+  "name": "callboy",
+  "version": "1.1.0",
+  "description": "I'm a call boy...",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/guilhermesteves/callboy.git"
+  },
+  "author": "Luan Orlandi <eu@guilhermesteves.dev>",
+  "license": "MIT",
+  "bin": {
+    "callboy": "./src/cli.js"
+  },
+  "bugs": {
+    "url": "https://github.com/guilhermesteves/callboy/issues"
+  },
+  "homepage": "https://github.com/guilhermesteves/callboy#readme",
+  "dependencies": {
+    "meow": "^5.0.0"
+  }
+}

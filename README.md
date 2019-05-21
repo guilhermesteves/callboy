@@ -2,7 +2,7 @@
 
 A lib to honor people who make lots of calls and leave your life sweeter
 
-https://www.youtube.com/watch?v=w0hXSWDRrZ0
+https://youtu.be/Py6U3XMy-AM?t=226
 
 Built with the work of [Omaewa](https://github.com/BrOrlandi/omaewa) command line sound.
 

@@ -2,7 +2,7 @@ language: node_js
 node_js:
   - "node"
 before_install:
-  - npm i -g makeshift && makeshift -s @bcoe -r https://registry.npmjs.org
+  - npm i -g makeshift && makeshift -s @guilhermesteves -r https://registry.npmjs.org
 deploy:
   provider: npm
   email: $NPM_EMAIL

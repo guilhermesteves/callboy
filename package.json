@@ -10,7 +10,7 @@
     "type": "git",
     "url": "git+ssh://git@github.com/guilhermesteves/callboy.git"
   },
-  "author": "Luan Orlandi <eu@guilhermesteves.dev>",
+  "author": "Guilherme Esteves <eu@guilhermesteves.dev>",
   "license": "MIT",
   "bin": {
     "callboy": "./src/cli.js"
